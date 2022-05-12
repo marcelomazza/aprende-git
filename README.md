@@ -1,7 +1,7 @@
 # Aprende Git
 Aprendé Git usando Git y GitHub. Contribuciones abiertas, lo único que necesitás es saber leer y escribir. Cualquier cosa preguntá.
 
-<a href="https://imgflip.com/i/6fwien"><img src="https://i.imgflip.com/6fwien.jpg" title="made at imgflip.com"/></a><div><a href="https://imgflip.com/memegenerator">from Imgflip Meme Generator</a></div>
+<img src="https://i.imgflip.com/6fwien.jpg" title="made at imgflip.com"/>
 
 # ¿Para qué?
 Git es un sistema de control de versiones. ¿Alguna vez te pasó que trabajaste en un documento y te olvidaste de guardarlo? ¿Alguna vez guardaste un documento?
