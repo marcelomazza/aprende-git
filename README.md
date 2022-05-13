@@ -4,8 +4,9 @@ Aprendé Git usando Git y GitHub. Contribuciones abiertas, lo único que necesit
 # ¿Qué hago? ¿Por dónde empiezo? Ayuda!
 - Lo primero que vas a necesitar es una cuenta de GitHub.
 - Lo segundo que vas a necesitar es crear un nuevo "Issue" en este repositorio, diciendo que te interesa participar en el proyecto.
+- Lo tercero que vas a necesitar es **estar atento** a ese Issue que creaste! Vas a recibir respuesta por ahí con el siguiente paso. **Los issues no contestados cerán cerrados**.
 
-Si no sabés cómo se hace alguna de esas dos cosas, podés escribirme a [@marcelomazza](https://twitter.com/marcelomazza). Próximamente subiré una guía paso a paso de cómo hacerlo.
+Si no sabés cómo se hace alguna de esas tres cosas, podés escribirme a [@marcelomazza](https://twitter.com/marcelomazza). Próximamente subiré una guía paso a paso de cómo hacerlo.
 
 <img src="https://i.imgflip.com/6fwien.jpg" title="made at imgflip.com"/>
 
