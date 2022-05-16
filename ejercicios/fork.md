@@ -25,3 +25,4 @@ Luego vas a continuar con el [Ejercicio 2](pull-request.md) y sumarte a esta lis
 ## Este ejercicio fue completado por los siguientes usuarios:
 
 - @tunombredeusuario
+- @dwarlyndut
