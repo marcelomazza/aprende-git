@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Sumarte a la lista de gente que completó el Ejercicio 1.
+Sumarte a la lista de gente que completó el [Ejercicio 1](fork.md). Leete ese ejercicio primero si no lo hiciste ya.
 
 Para esto ya vas a necesitar modificar archivos y abrir un Pull Request. Pero a no desesperar, vamos por partes.
 
