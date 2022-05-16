@@ -18,4 +18,10 @@ Lo que vas a hacer es un fork de `aprende-git` (este repositorio) para experimen
 
 ## Resolución del ejercicio
 
-Una vez que tengas tu fork creado, vas a cerrar el issue inicial dejando en un comentario el link a tu fork. Si algo no se entiende, pregunte!
+Una vez que tengas tu fork creado, vas a cerrar el issue inicial dejando en un comentario el link a tu fork.
+
+Luego vas a continuar con el [Ejercicio 2](pull-request.md) y sumarte a esta lista:
+
+## Este ejercicio fue completado por los siguientes usuarios:
+
+- @tunombredeusuario
